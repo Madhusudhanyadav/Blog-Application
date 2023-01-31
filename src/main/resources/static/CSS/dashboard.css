@@ -1,0 +1,20 @@
+body{
+    background-color: white!important;
+}
+
+.lTab{
+    width:20%;
+}
+
+#txtArea{
+    margin-top:2%;
+    width: 100%;
+}
+
+.ml-auto{
+    margin-left: 50%;
+}
+
+.lgi{
+    text-decoration: none;
+}
